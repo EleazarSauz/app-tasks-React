@@ -1,0 +1,29 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Mark",
+            "description": "lorem impsum",
+            "priority": "Puede esperar"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Rya",
+            "description": "lorem impsum",
+            "priority": "Urgente"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Elea",
+            "description": "lorem impsum",
+            "priority": "Importante"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Dani",
+            "description": "lorem impsum",
+            "priority": "Urgente"
+        }
+
+    ]
+}
